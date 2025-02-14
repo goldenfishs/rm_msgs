@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+    <name>rm_msgs</name>
+    <version>0.0.1</version>
+    <description>这个包包含用于机器人操作的消息定义。</description>
+    <maintainer email="1683502971@qq.com">biao</maintainer>
+    <license>MIT</license>
+
+    <buildtool_depend>rosidl_default_generators</buildtool_depend>
+    <exec_depend>rosidl_default_runtime</exec_depend>
+    <member_of_group>rosidl_interface_packages</member_of_group>
+
+    <export>
+        <build_type>ament_cmake</build_type>
+    </export>
+</package>
