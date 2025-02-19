@@ -1,2 +1,6 @@
 # rm_msg
-Some Ros2 custom messages for robotaster
+Some ROS 2 custom messages for Robotaster
+
+Usage
+Modify or add files in the /msg directory as needed
+colcon build
