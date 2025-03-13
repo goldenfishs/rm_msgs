@@ -1,4 +1,3 @@
-uint16 team
-uint16 time
-uint8 sentry_hp
-uint8 ballet_remain
+uint16 remain_hp
+uint8 game_progress
+uint16 stage_remain_time

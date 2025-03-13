@@ -7,6 +7,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
         "msg/DataRef.msg"
         "msg/DataAI.msg"
         "msg/Ps2Data.msg"
+        "msg/GoalPose.msg"
+        "msg/DataNav.msg"
 )
 
 ament_package()
